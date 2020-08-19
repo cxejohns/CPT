@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{92A1AE1E-84CB-471E-B7B3-19458339E4EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CPT FirstBuild="True" PreferredExecutionTarget="/Applications/Vivaldi.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CPT" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
